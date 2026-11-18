@@ -1,2 +1,2 @@
 # Grab-Supply-Demand-Gap
-An exploratory data analysis project investigating Uber's supply-demand gap across City and Airport pickup locations. Analyzes trip requests, completions, cancellations, and unavailable cars to identify demand patterns, peak hours, and operational inefficiencies, with insights for improving driver allocation.
+This project is a business analytics model designed to help bridge the supply-demand gap for Uber rides in specific locations. It analyzes ride data to identify areas where demand exceeds supply, providing insights to optimize driver allocation and improve service efficiency.
